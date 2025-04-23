@@ -14,7 +14,7 @@ I’m a **Data Science Master's student at the University of Salford**, with han
 - **Programming:** Python, R, SQL  
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn, TensorFlow, Deep Learning  
-- **Big Data & Cloud:** Azure  
+- **Big Data & Cloud:** Azure, Data Bricks
 - **Databases:** MySQL, TSQL    
 
 ---
